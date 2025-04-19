@@ -46,3 +46,5 @@ End to End DevOps Implementation on a E-Commerce project.
 40. CI/CD for the project
 41. GitHub Action with Argo CD for end to end CI/CD
 42. Key takeaways of the project.
+
+
