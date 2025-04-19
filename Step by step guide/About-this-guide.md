@@ -47,4 +47,8 @@ End to End DevOps Implementation on a E-Commerce project.
 41. GitHub Action with Argo CD for end to end CI/CD
 42. Key takeaways of the project.
 
+A detailed documentation along with architecture diagram of the project is shared in the below link.
+```
+https://opentelemetry.io/docs/demo/
+... 
 
