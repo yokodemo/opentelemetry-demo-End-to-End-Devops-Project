@@ -47,8 +47,33 @@ End to End DevOps Implementation on a E-Commerce project.
 41. GitHub Action with Argo CD for end to end CI/CD
 42. Key takeaways of the project.
 
-A detailed documentation along with architecture diagram of the project is shared in the below link.
-```
+
+#### Project architecture diagram and the explaination is available at the below link.
+
+- Architecture
+  
+https://opentelemetry.io/docs/demo/architecture/
+
+
+#### - Overview of microservices used in the project
+
+https://opentelemetry.io/docs/demo/services/
+
+#### A detailed documentation along with architecture diagram of the project is shared in the below link.
+
 https://opentelemetry.io/docs/demo/
-... 
+...
+
+In today's fast-paced IT sector, practical experience is critical to learning DevOps.  This project has been carefully curated to provide hands-on experience with real-time DevOps implementation, utilizing a popular E-Commerce demo project open-sourced by OpenTelemetry.  This project is widely regarded as one of the most effective real-world applications for learning DevOps, and I feel it provides the most practical insights.
+
+To make learning even more immersive, this project employs a multi-microservice design, with each microservice written in a different programming language.  This will help you understand and address real-world difficulties that arise while dealing with various tech stacks in a production environment.
+
+What You Will Learn:
+✅ Cloud Infrastructure Setup – Learn how to configure and deploy a cloud environment for DevOps implementation.
+✅ Understanding the Project & SDLC – Gain in-depth knowledge of software development lifecycles in microservices-based architectures.
+✅ Containerization with Docker – Learn how to package and manage applications efficiently using Docker.
+✅ Docker Compose Setup – Manage multi-container applications with Docker Compose.
+✅ Kubernetes for Orchestration – Deploy and manage containers at scale using Kubernetes.
+✅ Infrastructure as Code (IaC) with Terraform – Automate and manage cloud infrastructure effortlessly.
+
 
